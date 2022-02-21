@@ -1,6 +1,9 @@
 # quizzler
 
-Udemy Angela yu Section 10
+Udemy Anjela Yu Flutter Course practice : 
+https://www.udemy.com/course/flutter-bootcamp-with-dart/
+
+<img src = "https://user-images.githubusercontent.com/44460028/154958585-56c3b68e-e54b-4ada-b596-c362fcbd388d.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/44460028/154958654-af537cf3-6418-4bba-a3f1-af4639156477.png" width="30%" height="30%">
 
 ## Getting Started
 
